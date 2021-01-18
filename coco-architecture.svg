@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="745px" height="582px" viewBox="0 0 745 582" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>clean</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="clean">
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="745" height="582"></rect>
+            <g id="domain" transform="translate(148.000000, 311.000000)">
+                <path d="M0,0 L582,0 L582,111 L0,111 L0,0 Z" id="Rectangle" stroke="#979797" stroke-width="2" stroke-dasharray="4,4"></path>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="37" y="24" width="163" height="55" rx="2"></rect>
+                <text id="CLOC" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="93.521" y="56">CLOC</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="226" y="24" width="163" height="55" rx="2"></rect>
+                <text id="Commits" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="269.642" y="56">Commits</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="411" y="22" width="163" height="55" rx="2"></rect>
+                <text id="…" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="484" y="54">…</tspan>
+                </text>
+                <text font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="510" y="98">domain</tspan>
+                </text>
+            </g>
+            <g id="app" transform="translate(16.000000, 162.000000)">
+                <path d="M0,0 L715,0 L715,111 L0,111 L0,0 Z" id="Rectangle" stroke="#979797" stroke-width="2" stroke-dasharray="4,4"></path>
+                <text id="application" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="612" y="98">application</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="38" y="10" width="156" height="39" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="38" y="62" width="156" height="39" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="230" y="13" width="156" height="39" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="230" y="65" width="156" height="39" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="422" y="13" width="156" height="39" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="422" y="65" width="156" height="39" rx="2"></rect>
+                <text id="cloc-analysis" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="61" y="36">cloc analysis</tspan>
+                </text>
+                <text id="commits-analysis" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="234" y="39">commits analysis</tspan>
+                </text>
+                <text id="branch-analysis" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="50" y="88">branch analysis</tspan>
+                </text>
+                <text id="team-analysis" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="242" y="91">team analysis</tspan>
+                </text>
+                <text id="visual-builder" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="443" y="39">visual builder</tspan>
+                </text>
+                <text id="…" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="443" y="88">…</tspan>
+                </text>
+            </g>
+            <g id="infra" transform="translate(15.000000, 460.000000)">
+                <g id="Group-3" transform="translate(29.000000, 14.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="189" height="39" rx="2"></rect>
+                    <text id="framework-detector" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="12" y="26">framework detector</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(243.000000, 14.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="189" height="39" rx="2"></rect>
+                    <text id="file-scanner" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="12" y="26">file scanner</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(460.000000, 14.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="189" height="39" rx="2"></rect>
+                    <text id="cloud-native-identif" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="7" y="26">cloud native identify</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(457.000000, 64.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="124" height="39" rx="2"></rect>
+                    <text id="…" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="4" y="26">…</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(243.000000, 64.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="189" height="39" rx="2"></rect>
+                    <text id="cloc-framework" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="12" y="26">cloc framework</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(29.000000, 64.000000)">
+                    <rect id="Rectangle" stroke="#979797" stroke-width="2" x="0" y="0" width="189" height="39" rx="2"></rect>
+                    <text id="git-api" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                        <tspan x="12" y="26">git api</tspan>
+                    </text>
+                </g>
+                <path d="M0,0 L715,0 L715,111 L0,111 L0,0 Z" id="Rectangle" stroke="#979797" stroke-width="2" stroke-dasharray="4,4"></path>
+                <text id="infrastructure" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="590" y="97">infrastructure</tspan>
+                </text>
+            </g>
+            <g id="bin" transform="translate(16.000000, 13.000000)">
+                <path d="M0,0 L715,0 L715,111 L0,111 L0,0 Z" id="Rectangle" stroke="#979797" stroke-width="2" stroke-dasharray="4,4"></path>
+                <text font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="680" y="98">bin</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="47" y="29" width="167" height="52" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="252" y="29" width="167" height="52" rx="2"></rect>
+                <rect id="Rectangle" stroke="#979797" stroke-width="2" x="477" y="29" width="167" height="52" rx="2"></rect>
+                <text id="visual" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="106" y="61">visual</tspan>
+                </text>
+                <text id="visual" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="106" y="61">visual</tspan>
+                </text>
+                <text id="coco" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="311" y="61">coco</tspan>
+                </text>
+                <text id="suggest" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" fill="#000000">
+                    <tspan x="527" y="62">suggest</tspan>
+                </text>
+            </g>
+            <path id="Line" d="M37.0155428,129.984617 L40.0153834,130.015543 L39.9999203,131.515463 L39.9043499,140.785794 L39.798,151.038 L46.1044399,140.094746 L46.8532699,138.795033 L49.4526957,140.292693 L48.7038656,141.592406 L39.5394042,157.498777 L38.2081507,159.809378 L36.9248165,157.471822 L28.0902344,141.379894 L27.3683589,140.065019 L29.9981085,138.621268 L30.719984,139.936143 L36.798,151.009 L36.9045093,140.754868 L37.0000797,131.484537 L37.0155428,129.984617 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line" d="M37.0010787,277.998922 L40.001078,278.001079 L39.9999996,279.501078 L39.8857822,438.377498 L39.878,448.649 L46.078947,437.645142 L46.8152785,436.338308 L49.4289471,437.810971 L48.6926156,439.117806 L39.6811154,455.111331 L38.3720815,457.434592 L37.0663894,455.109452 L28.0778943,439.102986 L27.3434425,437.795094 L29.9592258,436.32619 L30.6936776,437.634082 L36.878,448.648 L36.885783,438.375341 L37.0000004,279.498922 L37.0010787,277.998922 Z" fill="#979797" fill-rule="nonzero"></path>
+            <path id="Line" d="M220.010989,277.989091 L223.010909,278.010989 L222.99996,279.510949 L222.921844,290.212849 L222.846,300.472 L229.119786,289.508676 L229.8647,288.206716 L232.468622,289.696545 L231.723707,290.998506 L222.607162,306.932388 L221.282869,309.246985 L219.992505,306.913303 L211.10953,290.848038 L210.3837,289.535341 L213.009092,288.083682 L213.734922,289.396378 L219.846,300.45 L219.921924,290.190952 L220.00004,279.489051 L220.010989,277.989091 Z" fill="#979797" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
